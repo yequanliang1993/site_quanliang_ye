@@ -1,9 +1,10 @@
 title: Quanliang Ye
 description: This is the personal site of Quanliang Ye
-remote_theme: pmarsceill/just-the-docs
-url: ""
+# remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
+# url: ""
 
-# url: https://yequanliang1993.github.io/site_quanliang_ye/
+url: https://yequanliang1993.github.io
 search_enabled: false
 google_analytics: G-4NR9BJ5YPK
 

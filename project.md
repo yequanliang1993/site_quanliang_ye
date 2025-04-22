@@ -12,4 +12,4 @@ description: Project
 3. [Getting The Data Right](https://bonsai.uno/): Big Open Network for Sustainability Assessment Information (2021-2025), **Main Contributor**
 
 ## Previous projects
-1. Enhanced input-output modelling for improved assessment of supply chain-wide environmnetal pressures in space and time: the case of China (PhD dissertation, 2018 - 2022), **PI**
+1. Enhanced input-output modelling for improved assessment of supply chain-wide environmnetal pressures in space and time: the case of China ([PhD dissertation](https://research.utwente.nl/en/publications/enhanced-input-output-modelling-for-improved-assessment-of-supply), 2018 - 2022), **PI**

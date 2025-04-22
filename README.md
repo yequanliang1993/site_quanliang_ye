@@ -6,7 +6,9 @@ This repository is rendered as a online site [here](https://yequanliang1993.gith
 ## Contents
 
 * [Home](index)
-
+* [Research](research)
+* [Project](project)
+* [Publication](publication)
 
 ## Contact Information
 Email: yequanliang1993@gmail.com

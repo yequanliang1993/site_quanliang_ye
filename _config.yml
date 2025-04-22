@@ -1,15 +1,18 @@
 title: Quanliang Ye
 description: This is the personal site of Quanliang Ye
 remote_theme: pmarsceill/just-the-docs
+theme: pmarsceill/just-the-docs
 
 url: https://yequanliang1993.github.io/site_quanliang_ye/
 
 aux_links:
   Template Repository: https://github.com/yequanliang1993/site_quanliang_ye
 
-logo: "image/IMG_3768.jpeg"
+logo: image/IMG_3768.png
+
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
+
 
 math: katex

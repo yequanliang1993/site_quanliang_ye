@@ -13,3 +13,12 @@ My research focuses on environmental impact assessment, climate change mitigatio
 I obtained a PhD in environmental science from University of Twente in the Netherlands. After that, I worked as a postdoctoral researcher at Aalborg University in Denmark and Radboud University in the Netherlands. I has been contributing to a number of national and international climate-related projects, including the EU Horizon project [WorldTrans](https://worldtrans-horizon.eu/), [CHOICE](https://www.climatechoice.eu/), and a Danish project [Getting The Data Right](https://bonsai.uno/). I am also a member of the Youth Editorial Board of Carbon Footprints journal, and a review editor for Frontiers in Environmental Science.
 
 A recent CV can be found here, in [English](https://github.com/yequanliang1993/site_quanliang_ye/blob/main/files/QYe_CV_full_April_2025_english.pdf) or in [Chinese](https://github.com/yequanliang1993/site_quanliang_ye/blob/main/files/QYe_CV_full_April_2025_chinese.pdf)
+
+## Contact Information
+Email: yequanliang1993@gmail.com
+
+LinkedIn: [Quanliang Ye](https://www.linkedin.com/in/quanliang-ye-7112ab197/)
+
+Google Scholar: [Quanliang Ye](https://scholar.google.com/citations?user=WNgSJnsAAAAJ)
+
+ORCID: [0000-0002-6135-3403](https://orcid.org/my-orcid?orcid=0000-0002-6135-3403)

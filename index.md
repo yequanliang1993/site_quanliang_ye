@@ -5,7 +5,6 @@ nav_order: 1
 description: Dr. Quanliang Ye
 ---
 |[![](image/home_page_profile.png)](image/home_page_profile.png)
-|:--|
 
 
 ## About ME

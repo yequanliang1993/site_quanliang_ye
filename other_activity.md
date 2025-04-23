@@ -18,13 +18,13 @@ description: Other activities
 
 ## Academic services
 ### - Journal Editor and Referee
-- ***Carbon Footprint*** (The Youth Editorial Board member)
-- ***Frontiers in Environmental Science*** (Review Editor for Freshwater Science)
+- *Carbon Footprint* (The Youth Editorial Board member)
+- *Frontiers in Environmental Science* (Review Editor for Freshwater Science)
 - Referee for journals such as *Water Research*, *Journal of Cleaner Production*, *Scientific Data*, etc.
 
 ### - Professional Organization Membership
-- [**The International Society for Industrial Ecology (ISIE)**](https://is4ie.org/members/1816), since May 2019
-- **The International Input-Output Association (IIOA)**, since November 2021
+- [The International Society for Industrial Ecology (ISIE)](https://is4ie.org/members/1816), since May 2019
+- The International Input-Output Association (IIOA), since November 2021
 
 ## Teaching & mentoring experiences
 - **Instructor**, Nijmegen School of Management, Radboud University

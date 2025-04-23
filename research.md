@@ -13,4 +13,4 @@ My research to date has three main themes:
 - Capital system management, including investment and use of natural, manufactured, and human capital
 - Climate change mitagitation from the demand sides, focusing on lifestyle change
 
-Details about projects, pulications, and other activities can be found in the [Projects](project.md) and [Publications](publication.md) pages.
+Details about projects, pulications, and other activities can be found in the [Projects](project.md), [Publications](publication.md), and [Other Acitivities](other_activity.md) pages, respectively.

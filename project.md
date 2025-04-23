@@ -4,7 +4,7 @@ layout: default
 nav_order: 3
 description: Project
 ---
-# Project
+# **Project**
 
 ## Ongoing projects
 1. [CHOICE](https://www.climatechoice.eu/): Mainstreaming Integrated Assessment Models by embedding behavioural change and actor heterogeneity, and increasing their outreach to citizens, communities and industrial actors (2023-2026), **Main Contributor**

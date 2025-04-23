@@ -21,6 +21,8 @@ Email: yequanliang1993@gmail.com
 
 LinkedIn: [Quanliang Ye](https://www.linkedin.com/in/quanliang-ye-7112ab197/)
 
+[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/quanliang-ye-7112ab197/): [LinkedIn](https://www.linkedin.com/in/quanliang-ye-7112ab197/)
+
 Google Scholar: [Quanliang Ye](https://scholar.google.com/citations?user=WNgSJnsAAAAJ)
 
 ORCID: [0000-0002-6135-3403](https://orcid.org/my-orcid?orcid=0000-0002-6135-3403)

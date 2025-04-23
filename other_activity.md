@@ -19,7 +19,7 @@ description: Other activities
 ## Academic services
 ### - Journal Editor and Referee
 - *Carbon Footprint* (The Youth Editorial Board member)
-- *Frontiers in Environmental Science* (Review Editor for Freshwater Science)
+- *Frontiers in Environmental Science* ([Review Editor](https://loop.frontiersin.org/people/1977409/overview) for Freshwater Science)
 - Referee for journals such as *Water Research*, *Journal of Cleaner Production*, *Scientific Data*, etc.
 
 ### - Professional Organization Membership

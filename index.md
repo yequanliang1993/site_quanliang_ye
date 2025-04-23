@@ -16,9 +16,7 @@ I obtained a PhD in environmental science from University of Twente in the Nethe
 
 A recent CV can be found here, in [English](https://github.com/yequanliang1993/site_quanliang_ye/blob/main/files/QYe_CV_full_April_2025_english.pdf) or in [Chinese](https://github.com/yequanliang1993/site_quanliang_ye/blob/main/files/QYe_CV_full_April_2025_chinese.pdf)
 
-|[![](files/QYe_CV_full_April_2025_chinese.pdf)](files/QYe_CV_full_April_2025_chinese.pdf)
-|:--|
-|QYe_CV_full_April_2025_chinese|
+[cv ch](pdf_viewer.html)
 
 ## Contact Information
 Email: yequanliang1993@gmail.com

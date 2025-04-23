@@ -17,12 +17,19 @@ I obtained a PhD in environmental science from University of Twente in the Nethe
 A recent CV can be found here, in [English](pdf_cv_english.html) or in [Chinese](pdf_cv_chinese.html)
 
 ## Contact Information
-Email: yequanliang1993@gmail.com
 
-LinkedIn: [Quanliang Ye](https://www.linkedin.com/in/quanliang-ye-7112ab197/)
+[![location](image/location.png)]() [IIASA, Laxenburg, AT](https://maps.app.goo.gl/k48y3GPJbMUhaexK8)
 
-[![LinkedIn](image/linkedin.png)](https://www.linkedin.com/in/quanliang-ye-7112ab197/): [LinkedIn](https://www.linkedin.com/in/quanliang-ye-7112ab197/)
+[![Gmail](image/gmail.png)](mailto:yequanliang1993@gmail.com)   [Gmail](mailto:yequanliang1993@gmail.com)
 
-Google Scholar: [Quanliang Ye](https://scholar.google.com/citations?user=WNgSJnsAAAAJ)
+[![Google Scholar](image/google_scholar.png)](https://scholar.google.com/citations?user=WNgSJnsAAAAJ)   [Google Scholar](https://scholar.google.com/citations?user=WNgSJnsAAAAJ)
 
-ORCID: [0000-0002-6135-3403](https://orcid.org/my-orcid?orcid=0000-0002-6135-3403)
+
+[![ORCID](image/orcid.png)](https://orcid.org/0000-0002-6135-3403)   [ORCID](https://orcid.org/0000-0002-6135-3403)
+
+[![LinkedIn](image/linkedin.png)](https://www.linkedin.com/in/quanliang-ye-7112ab197/)  [LinkedIn](https://www.linkedin.com/in/quanliang-ye-7112ab197/)
+
+[![research gate](image/research_gate.png)](https://www.researchgate.net/profile/Quanliang-Ye)  [ResearchGate](https://www.researchgate.net/profile/Quanliang-Ye)
+
+[![twitter](image/twitter.png)](https://x.com/QuanliangYe)  [Twitter](https://x.com/QuanliangYe)
+

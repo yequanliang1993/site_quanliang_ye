@@ -4,7 +4,10 @@ layout: home
 nav_order: 1
 description: Dr. Quanliang Ye
 ---
-# Dr. Quanliang Ye
+|[![](image/home_page_profile.png)](image/home_page_profile.png)
+|:--|
+
+
 ## About ME
 I am a [Research Scholar](https://iiasa.ac.at/staff/quanliang-ye) in the [IIASA Energy, Climate, and Environment Program](https://iiasa.ac.at/programs/ece). 
 

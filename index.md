@@ -14,7 +14,7 @@ My research focuses on environmental impact assessment, climate change mitigatio
 
 I obtained a PhD in environmental science from University of Twente in the Netherlands. After that, I worked as a postdoctoral researcher at Aalborg University in Denmark and Radboud University in the Netherlands. I has been contributing to a number of national and international climate-related projects, including the EU Horizon project [WorldTrans](https://worldtrans-horizon.eu/), [CHOICE](https://www.climatechoice.eu/), and a Danish project [Getting The Data Right](https://bonsai.uno/). I am also a member of the Youth Editorial Board of *Carbon Footprints* journal, and a review editor for *Frontiers in Environmental Science*.
 
-A recent CV can be found here, in [English](pdf_cv_english.html) or in [Chinese](pdf_cv_chinese.html)
+A recent CV can be found here, in [English](pdf_cv_english.html) or [查看中文简历](pdf_cv_chinese.html)
 
 ## Contact Information
 

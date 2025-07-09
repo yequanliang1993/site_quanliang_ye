@@ -7,6 +7,8 @@ description: Other activities
 # **Other Activities**
 
 ## Oral presentation at scientific conferences
+- The 12th International Conference
+on Industrial Ecology. July 2025, National University of Singapore, Singapore
 - The 17th IAMC Annual Meeting 2024. November 2024, Yonsei University, Seoul, South Korea
 - 2024 Joint ISIE SEM and Asia-Pacific Conference. August 2024, Beijing, China
 - The 11th International Society for Industrial Ecology conference. July 2023, Leiden University, Leiden, the Netherlands

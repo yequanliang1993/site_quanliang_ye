@@ -30,17 +30,20 @@ on Industrial Ecology. July 2025, National University of Singapore, Singapore
 - The International Input-Output Association (IIOA), since November 2021
 
 ## Teaching & mentoring experiences
+- **Mentor**
+    - M.Sc. Ling Zhang, Peking University (China)
+    - M.Sc. Poornima Kumar, IIASA YSSP 2025, Oxford University (The United Kingdom)
+    - M.Sc. Xinzi Wang, Graduated in June 2024, Hohai University (China)
+    - Dr. Dongxiao Xu, Graduated in May 2024, Beijing Normal University (China)
+    - Dr. Yue Xiao, Graduated in December 2023, Vienna University of Economics and Business (Austria)
+    - Yan Cui, Graduated in June 2017, Hohai University (China)
 - **Instructor**, Nijmegen School of Management, Radboud University
     
     - Qualitative Research Methods (Undergraduate / Pre-master Course)
     - Project Responsible Organisation 2: Business Analysis for Responsible Organisation (Undergraduate Course)
     - Bachelor's Thesis for specialisation in Business Administration
     - Bachelor’s Thesis International Business Administration
-- **Mentor**
-    - M.Sc. Xinzi Wang, Graduated in June 2024, Hohai University (China)
-    - Dr. Dongxiao Xu, Graduated in May 2024, Beijing Normal University (China)
-    - Dr. Yue Xiao, Graduated in December 2023, Vienna University of Economics and Business (Austria)
-    - Yan Cui, Graduated in June 2017, Hohai University (China)
+
 
 
 

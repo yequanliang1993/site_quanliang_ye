@@ -7,6 +7,7 @@ description: Other activities
 # **Other Activities**
 
 ## Oral presentation at scientific conferences
+- World Biodiversity Forum 2026. June 2026, University of Zurich, Davos, Switzerland
 - The 12th International Conference
 on Industrial Ecology. July 2025, National University of Singapore, Singapore
 - The 17th IAMC Annual Meeting 2024. November 2024, Yonsei University, Seoul, South Korea
@@ -23,7 +24,7 @@ on Industrial Ecology. July 2025, National University of Singapore, Singapore
 - *Communications Sustainability*, **Nature Portfolio** ([Editorial Board Member](https://www.nature.com/commssustain/editorial-board))
 - *Carbon Footprint* (The Youth Editorial Board member)
 - *Frontiers in Environmental Science* ([Review Editor](https://loop.frontiersin.org/people/1977409/overview) for Freshwater Science)
-- Referee for journals such as *Water Research*, *Journal of Cleaner Production*, *Scientific Data*, etc.
+- Referee for journals such as *Nature Food*, *Water Research*, *Journal of Cleaner Production*, *Scientific Data*, etc.
 
 ### - Professional Organization Membership
 - [The International Society for Industrial Ecology (ISIE)](https://is4ie.org/members/1816), since May 2019
@@ -31,7 +32,7 @@ on Industrial Ecology. July 2025, National University of Singapore, Singapore
 
 ## Teaching & mentoring experiences
 - **Mentor**
-    - M.Sc. Ling Zhang, Peking University (China)
+    - Dr. Ling Zhang, Graduated in June 2026, IIASA YSSP2024 / exchange student, Peking University (China)
     - M.Sc. Poornima Kumar, IIASA YSSP 2025, Oxford University (The United Kingdom)
     - M.Sc. Xinzi Wang, Graduated in June 2024, Hohai University (China)
     - Dr. Dongxiao Xu, Graduated in May 2024, Beijing Normal University (China)

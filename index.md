@@ -10,7 +10,7 @@ description: Dr. Quanliang Ye
 
 # **Welcome to my personal site!!!**
 
-## It is a great pleasure to see you here with all your interests in my work. 
+It is a great pleasure to see you here with all your interests in my work. 
 
 ## About ME
 My research focuses on environmental impact assessment, climate change mitigation, and climate change policy analysis. As part of this work, I have been conducting in-depth research on the multi-dimensional impacts of climate change on industries and ecosystems. I developed advanced environmental impact assessment models, such as capital endogenous input-output models and system dynamics-based integrated assessment models (IAMs). These models not only combine multidisciplinary theories but also apply big data analysis techniques, thus improving both the accuracy and applicability of environmental impact assessments. My work has been published in a variety of journals, including [*Nature Communications*](https://www.nature.com/articles/s41467-023-38358-z), [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.2604868123), [*Environmental Science & Technology*](https://pubs.acs.org/doi/10.1021/acs.est.0c07263), etc. My ultimate goal is to provide a credible scientific basis for decision making and policymaking in global and national sustainable development.

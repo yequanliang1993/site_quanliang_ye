@@ -8,7 +8,9 @@ description: Dr. Quanliang Ye
 
 
 ## About ME
-I am a [Research Scholar](https://iiasa.ac.at/staff/quanliang-ye) in the [IIASA Energy, Climate, and Environment Program](https://iiasa.ac.at/programs/ece). 
+**Welcome to my personal site!!!**
+
+It is a great pleasure to see you here with all your interests in my work. 
 
 My research focuses on environmental impact assessment, climate change mitigation, and climate change policy analysis. As part of this work, I have been conducting in-depth research on the multi-dimensional impacts of climate change on industries and ecosystems. I developed advanced environmental impact assessment models, such as capital endogenous input-output models and system dynamics-based integrated assessment models (IAMs). These models not only combine multidisciplinary theories but also apply big data analysis techniques, thus improving both the accuracy and applicability of environmental impact assessments. My work has been published in a variety of journals, including [*Nature Communications*](https://www.nature.com/articles/s41467-023-38358-z), [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.2604868123), [*Environmental Science & Technology*](https://pubs.acs.org/doi/10.1021/acs.est.0c07263), etc. My ultimate goal is to provide a credible scientific basis for decision making and policymaking in global and national sustainable development.
 
@@ -18,14 +20,14 @@ A recent CV can be found here, in [English](pdf_cv_english.html) or [查看中�
 
 ## Contact Information
 
-[![location](image/location.png)]() [IIASA, Laxenburg, AT](https://maps.app.goo.gl/k48y3GPJbMUhaexK8)
+[![location](image/location.png)]() [Kennedy Town, HK](https://maps.app.goo.gl/Ti6EWv5dDSYraaX88)
 
 [![Gmail](image/gmail.png)](mailto:yequanliang1993@gmail.com)   [Gmail](mailto:yequanliang1993@gmail.com)
 
 [![Google Scholar](image/google_scholar.png)](https://scholar.google.com/citations?user=WNgSJnsAAAAJ)   [Google Scholar](https://scholar.google.com/citations?user=WNgSJnsAAAAJ)
 
 
-[![ORCID](image/orcid.png)](https://orcid.org/0000-0002-6135-3403)   [ORCID](https://orcid.org/0000-0002-6135-3403)
+[![ORCID](image/orcid.png)](https://orcid.org/0000-0002-6135-3403)  [ORCID](https://orcid.org/0000-0002-6135-3403)
 
 [![LinkedIn](image/linkedin.png)](https://www.linkedin.com/in/quanliang-ye-7112ab197/)  [LinkedIn](https://www.linkedin.com/in/quanliang-ye-7112ab197/)
 
